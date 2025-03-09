@@ -14,7 +14,7 @@ This repository is created as an answer to **Question 1 (Q1)** of **IntelliHack 
 
 - **Report_2**: Contains the detailed report for **Part 2** of the project, which focuses on real-time prediction and handling sensor malfunctions.
 
-- **weather_data.csv**: The dataset used for training and testing the model, which includes minute-by-minute weather data such as temperature, humidity, wind speed, pressure, and rain status.
+- **weather_data.csv**: The dataset used for training and testing the model, which includes  weather data such as temperature, humidity, wind speed, pressure, and rain status.
 
 ## How to Run the System
 
